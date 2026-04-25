@@ -1,8 +1,8 @@
 # Library-Management
 
 
-### NAME : A CHANDHNA
-### REG.NO : 212224040051
+### NAME : BHARANIKA A S 
+### REG.NO : 212224040048
 ### AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.
 ### PROBLEM STATEMENT:
